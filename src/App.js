@@ -1,5 +1,4 @@
 import LightDarkMode from './components/light-dark-mode';
-import './App.css';
 
 function App() {
   return (
