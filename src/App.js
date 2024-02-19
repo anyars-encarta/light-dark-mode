@@ -1,6 +1,6 @@
 import LightDarkMode from './components/light-dark-mode';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <LightDarkMode />
