@@ -39,7 +39,7 @@
 <!-- INTRO -->
 # 📖 Light-Dark Theme<a name="about-project"></a>
 
-> Light-Dark Theme is an interactive app that switches the app between light and dark themes. Built with React and plain CSS. More features to be added later including more advanced toggles and color pickers.
+> Light-Dark Theme is an interactive app that switches the app between light and dark themes. Built with React and plain CSS. More features to be added soon including more advanced toggles and color pickers.
 
 ## 🛠 Built With <a name="built-with"></a>
 1. React
